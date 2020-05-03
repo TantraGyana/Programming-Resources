@@ -1,0 +1,2 @@
+Array is linear data structure and used to store multiple values in a single variable. It is fixed, in that the size of array is set 
+when it is declared. Arrays a kind of data structure that can store a fixed-size sequential collection of elements of the same type.
