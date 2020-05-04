@@ -57,4 +57,4 @@ class Solution {
 
 
 [title]: https://leetcode.com/problems/add-two-numbers
-[ajl]: https://github.com/Blankj/awesome-java-leetcode
+https://github.com/TantraGyana/Programming-Resources/tree/master/LeetCode%20Problems
