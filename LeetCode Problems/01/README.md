@@ -60,4 +60,4 @@ class Solution {
 
 
 https://leetcode.com/problems/two-sum
-https://github.com/Blankj/awesome-java-leetcode
+https://github.com/TantraGyana/Programming-Resources/LeetCodeProblems
