@@ -57,9 +57,5 @@ class Solution {
 ```
 
 
-## [awesome-java-leetcode][Java-leetcode]
-
-
-
 [title]: https://leetcode.com/problems/median-of-two-sorted-arrays
-[Java-leetcode]: https://github.com/Blankj/awesome-java-leetcode
+[Java-leetcode]: https://github.com/TantraGyana/Programming-Resources/tree/master/LeetCode%20Problems
