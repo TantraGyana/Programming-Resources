@@ -44,4 +44,4 @@ class Solution {
 
 
 [title]: https://leetcode.com/problems/longest-substring-without-repeating-characters
-[Java]: https://github.com/Blankj/awesome-java-leetcode
+[Java]: https://github.com/TantraGyana/Programming-Resources/tree/master/LeetCode%20Problems
